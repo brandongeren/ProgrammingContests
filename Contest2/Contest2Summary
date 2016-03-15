@@ -12,4 +12,4 @@ Problems implemented correctly:
 Problems implemented incorrectly:
 1
 
-We placed 4th out of 8 teams.
+We placed 5th out of 8 teams. This somewhat lackluster performance was due to our solution to the Fibonacci Period problem. It took just a little bit too long in run time to be counted correct. A faster implementation would have been a dynamic programming one that saved the values calculated previously in a table and reference them to see if that value has already been calculated. Each term in the fibonacci modulo sequence depends on the last 2, so the number can be calculated using those numbers instead of finding the fib value and then taking its mod.
