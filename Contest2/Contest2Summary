@@ -1,0 +1,8 @@
+Although we completed the same number of total problems on this programming contest as the previous one, the problems on this contest seemed to be much harder. As a whole, I was satisfied more with my work on this contest because it showed improvement over the previous contest.
+
+The Soundex.java included was an incorrect solution: it was correct for most cases, but the judges told us that for certain corner cases the output was incorrect. We did not have enough time remaining in the programming contest to find this corner case, but I would be interested to see what it was.
+
+The included Fibonacci.java file was used to generate data about fibonacci numbers in order to help with the solution of the fib period problem.
+
+The problems given can be found here:
+http://pages.cs.wisc.edu/~dieter/ICPC/08-09/problem_sets/2008_regional.pdf
