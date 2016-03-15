@@ -6,3 +6,8 @@ The included Fibonacci.java file was used to generate data about fibonacci numbe
 
 The problems given can be found here:
 http://pages.cs.wisc.edu/~dieter/ICPC/08-09/problem_sets/2008_regional.pdf
+
+Problems implemented correctly:
+3, 5, 8
+Problems implemented incorrectly:
+1
